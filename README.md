@@ -1,43 +1,51 @@
-# Hello, I'm Rodrigo Fonseca! 👋
-🎓 A recent **Computer Science and Engineering** graduate from Universidade da Beira Interior, passionate about technology and innovation. Throughout my academic journey, I developed strong technical skills in areas such as software development, cybersecurity, and artificial intelligence. I've worked on various hands-on projects that helped me apply my knowledge and further expand my abilities.
+# Hey, I'm Rodrigo Fonseca! 👋
 
-## 🚀 Key Technologies & Tools
-- **Languages:** Java, C, C#, Python, Ocaml, Dart, JavaScript, SQL, HTML, CSS, PHP
+🎓 **Computer Science and Engineering** graduate from Universidade da Beira Interior, currently working as a **DevOps & Infrastructure Engineer** at Critical Software.  
+🔧 I’m passionate about automation, clean infrastructure, and building systems that just work. I love eliminating manual toil, improving reliability, and helping teams move faster.
 
-- **Frameworks:** Flutter, JavaFX, Spring Framework
+## 🚀 What I Work With
 
-- **Tools & IDEs:** Git, Visual Studio Code, IntelliJ, Eclipse, Visual Studio, Unity
-
-- **Other Skills:** Scrum, Agile Methodologies
+- **DevOps & Infra:** CI/CD, Jenkins, Docker, Linux, Elastic Stack, Microsoft SQL Server, Nexus, Azure, Git, SSH, networking, certificates, scripting
+- **Infra-as-Code:** Ansible, Bash, YAML 
+- **Languages:** Python, Java, C, C#, JavaScript, SQL, HTML/CSS  
+- **Frameworks:** Spring, Flutter, JavaFX  
+- **Tools & IDEs:** IntelliJ, VS Code, Eclipse, Visual Studio, Unity  
+- **Soft Skills:** Teamwork, communication, problem-solving, ownership  
+- **Methodologies:** Agile, Scrum
 
 ## 💼 Featured Projects
-- **[Battleship Game](https://github.com/Rf2104/Battleship-Game) (Java + JavaFX):** A Battleship game with a graphical interface developed in JavaFX.
 
-- **[Aim trainer Website](https://github.com/Rf2104/Aim-Trainer) (JavaScript + HTML + CSS + PHP):** Aim trainer with complex challenges written in JavaScript.
-
-- **[Tap Service](https://github.com/Rf2104/Tap-Service) (Flutter + Dart):** A mobile app for service contracting, built using Flutter.
-
-- **[Cursed Legacy](https://github.com/Rf2104/CursedLegacy) (C# + Unity):** A 3D game developed in Unity, featuring physics mechanics and environmental interaction.
-
-- **[BHSchool](https://github.com/Pereira3/BHSchool) (Java + Spring):** Web application for managing a school, with CRUD operations for students, teachers, and courses.
+- **[Battleship Game](https://github.com/Rf2104/Battleship-Game)** – Battleship with JavaFX UI  
+- **[Aim Trainer](https://github.com/Rf2104/Aim-Trainer)** – Fast-paced JavaScript browser game  
+- **[Tap Service](https://github.com/Rf2104/Tap-Service)** – Mobile app for service hiring in Flutter  
+- **[Cursed Legacy](https://github.com/Rf2104/CursedLegacy)** – Unity 3D game with physics and puzzles  
+- **[BHSchool](https://github.com/Pereira3/BHSchool)** – Java Spring school management web app
 
 ## 🎓 Education
-- **Bachelor's in Computer Science and Engineering** | Universidade da Beira Interior (2021 – 2024)
-  - GPA: 16/20
+
+**BSc in Computer Science and Engineering**  
+Universidade da Beira Interior (2021–2024)  
+📌 GPA: 16/20
 
 ## 🛠️ Certifications
-- **Scrum Foundation Professional Certificate** | CertiProf (Oct. 2023)
+
+- **Scrum Foundation Professional Certificate** | CertiProf (2023)
 
 ## 🌍 Languages
-- **Portuguese:** Native
-- **English:** Intermediate (B2)
+
+- **Portuguese:** Native  
+- **English:** B2 – Intermediate
 
 ## 💡 Interests
-- Software Development
-- Cybersecurity
-- Artificial Intelligence
 
-## 📫 Get in touch
-- **Email:** rodrigomiguel2104@gmail.com
-- **LinkedIn:** linkedin.com/in/rodrigo-gfonseca
-- **GitHub:** github.com/Rf2104
+- DevOps & Automation  
+- Infrastructure & Cloud  
+- Software Development  
+- Cybersecurity  
+- Systems Design
+
+## 📫 Get in Touch
+
+- 📧 **Email:** rodrigomiguel2104@gmail.com  
+- 🔗 **LinkedIn:** [linkedin.com/in/rodrigo-gfonseca](https://linkedin.com/in/rodrigo-gfonseca)  
+- 💻 **GitHub:** [github.com/Rf2104](https://github.com/Rf2104)
