@@ -41,7 +41,6 @@ Universidade da Beira Interior (2021–2024)
 - DevOps & Automation  
 - Infrastructure & Cloud  
 - Software Development  
-- Cybersecurity  
 - Systems Design
 
 ## 📫 Get in Touch
